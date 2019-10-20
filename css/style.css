@@ -1,4 +1,8 @@
 p{
     color:red;
-    align-self: auto;
+    text-align: center;
+    padding: 200 px;
+    margin: 40 px;
+    border: 5 px solid pink;
+
 }
